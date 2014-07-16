@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=3 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=1 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=23 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="A">
+            <Ligature components="I,I" glyph="A_I_I"/>
+            <Ligature components="E,E" glyph="A_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="B">
+            <Ligature components="I,I" glyph="B_I_I"/>
+            <Ligature components="E,E" glyph="B_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="C">
+            <Ligature components="I,I" glyph="C_I_I"/>
+            <Ligature components="E,E" glyph="C_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="D">
+            <Ligature components="I,I" glyph="D_I_I"/>
+            <Ligature components="E,E" glyph="D_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="E">
+            <Ligature components="I,I" glyph="E_I_I"/>
+            <Ligature components="E,E" glyph="E_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="F">
+            <Ligature components="I,I" glyph="F_I_I"/>
+            <Ligature components="E,E" glyph="F_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="G">
+            <Ligature components="I,I" glyph="G_I_I"/>
+            <Ligature components="E,E" glyph="G_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="H">
+            <Ligature components="I,I" glyph="H_I_I"/>
+            <Ligature components="E,E" glyph="H_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="I">
+            <Ligature components="I,I" glyph="I_I_I"/>
+            <Ligature components="E,E" glyph="I_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="J">
+            <Ligature components="I,I" glyph="J_I_I"/>
+            <Ligature components="E,E" glyph="J_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="K">
+            <Ligature components="I,I" glyph="K_I_I"/>
+            <Ligature components="E,E" glyph="K_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="L">
+            <Ligature components="I,I" glyph="L_I_I"/>
+            <Ligature components="E,E" glyph="L_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="M">
+            <Ligature components="I,I" glyph="M_I_I"/>
+            <Ligature components="E,E" glyph="M_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="N">
+            <Ligature components="I,I" glyph="N_I_I"/>
+            <Ligature components="E,E" glyph="N_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="O">
+            <Ligature components="I,I" glyph="O_I_I"/>
+            <Ligature components="E,E" glyph="O_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="P">
+            <Ligature components="I,I" glyph="P_I_I"/>
+            <Ligature components="E,E" glyph="P_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="Q">
+            <Ligature components="I,I" glyph="Q_I_I"/>
+            <Ligature components="E,E" glyph="Q_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="R">
+            <Ligature components="I,I" glyph="R_I_I"/>
+            <Ligature components="E,E" glyph="R_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="S">
+            <Ligature components="I,I" glyph="S_I_I"/>
+            <Ligature components="E,E" glyph="S_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="T">
+            <Ligature components="I,I" glyph="T_I_I"/>
+            <Ligature components="E,E" glyph="T_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="U">
+            <Ligature components="I,I" glyph="U_I_I"/>
+            <Ligature components="E,E" glyph="U_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="V">
+            <Ligature components="I,I" glyph="V_I_I"/>
+            <Ligature components="E,E" glyph="V_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="W">
+            <Ligature components="I,I" glyph="W_I_I"/>
+            <Ligature components="E,E" glyph="W_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="X">
+            <Ligature components="I,I" glyph="X_I_I"/>
+            <Ligature components="E,E" glyph="X_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="Y">
+            <Ligature components="I,I" glyph="Y_I_I"/>
+            <Ligature components="E,E" glyph="Y_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="Z">
+            <Ligature components="I,I" glyph="Z_I_I"/>
+            <Ligature components="E,E" glyph="Z_E_E"/>
+          </LigatureSet>
+          <LigatureSet glyph="a">
+            <Ligature components="t,t" glyph="a_t_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="o,n" glyph="c_o_n"/>
+            <Ligature components="t,i" glyph="c_t_i"/>
+            <Ligature components="c,o" glyph="c_c_o"/>
+            <Ligature components="h,y" glyph="c_h_y"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="t,t" glyph="e_t_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="eacute">
+            <Ligature components="t,eacute" glyph="eacute_t_eacute"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="f,l" glyph="f_f_l"/>
+            <Ligature components="f,i" glyph="f_f_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="f,f" glyph="o_f_f"/>
+          </LigatureSet>
+          <LigatureSet glyph="u">
+            <Ligature components="t,t" glyph="u_t_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="o,u" glyph="v_o_u"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="1" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="eacute" glyph="aeacute"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="quoteright" glyph="c_quoteright"/>
+          </LigatureSet>
+          <LigatureSet glyph="hyphen">
+            <Ligature components="t,hyphen" glyph="hyphen_t_hyphen"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="quoteright" glyph="l_quoteright"/>
+          </LigatureSet>
+          <LigatureSet glyph="m">
+            <Ligature components="quoteright" glyph="m_quoteright"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="quoteright" glyph="n_quoteright"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="ugrave" glyph="o_ugrave"/>
+          </LigatureSet>
+          <LigatureSet glyph="ucircumflex">
+            <Ligature components="t" glyph="ucircumflex_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni02E1">
+            <Ligature components="uni1D49" glyph="uni02E1_uni1D49"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="2" Format="1">
+          <LigatureSet glyph="A">
+            <Ligature components="W" glyph="A_W"/>
+            <Ligature components="U" glyph="A_U"/>
+            <Ligature components="S" glyph="A_S"/>
+            <Ligature components="R" glyph="A_R"/>
+            <Ligature components="Z" glyph="A_Z"/>
+            <Ligature components="Q" glyph="A_Q"/>
+            <Ligature components="P" glyph="A_P"/>
+            <Ligature components="N" glyph="A_N"/>
+            <Ligature components="M" glyph="A_M"/>
+            <Ligature components="L" glyph="A_L"/>
+            <Ligature components="K" glyph="A_K"/>
+            <Ligature components="H" glyph="A_H"/>
+            <Ligature components="G" glyph="A_G"/>
+            <Ligature components="F" glyph="A_F"/>
+            <Ligature components="E" glyph="A_E"/>
+            <Ligature components="D" glyph="A_D"/>
+            <Ligature components="C" glyph="A_C"/>
+            <Ligature components="B" glyph="A_B"/>
+            <Ligature components="A" glyph="A_A"/>
+            <Ligature components="O" glyph="A_O"/>
+            <Ligature components="Y" glyph="A_Y"/>
+            <Ligature components="X" glyph="A_X"/>
+            <Ligature components="V" glyph="A_V"/>
+            <Ligature components="T" glyph="A_T"/>
+            <Ligature components="I" glyph="A_I"/>
+            <Ligature components="J" glyph="A_J"/>
+          </LigatureSet>
+          <LigatureSet glyph="B">
+            <Ligature components="Z" glyph="B_Z"/>
+            <Ligature components="Y" glyph="B_Y"/>
+            <Ligature components="X" glyph="B_X"/>
+            <Ligature components="W" glyph="B_W"/>
+            <Ligature components="V" glyph="B_V"/>
+            <Ligature components="U" glyph="B_U"/>
+            <Ligature components="S" glyph="B_S"/>
+            <Ligature components="R" glyph="B_R"/>
+            <Ligature components="T" glyph="B_T"/>
+            <Ligature components="Q" glyph="B_Q"/>
+            <Ligature components="P" glyph="B_P"/>
+            <Ligature components="O" glyph="B_O"/>
+            <Ligature components="N" glyph="B_N"/>
+            <Ligature components="M" glyph="B_M"/>
+            <Ligature components="L" glyph="B_L"/>
+            <Ligature components="K" glyph="B_K"/>
+            <Ligature components="J" glyph="B_J"/>
+            <Ligature components="I" glyph="B_I"/>
+            <Ligature components="H" glyph="B_H"/>
+            <Ligature components="G" glyph="B_G"/>
+            <Ligature components="F" glyph="B_F"/>
+            <Ligature components="E" glyph="B_E"/>
+            <Ligature components="D" glyph="B_D"/>
+            <Ligature components="C" glyph="B_C"/>
+            <Ligature components="B" glyph="B_B"/>
+            <Ligature components="A" glyph="B_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="C">
+            <Ligature components="Z" glyph="C_Z"/>
+            <Ligature components="Y" glyph="C_Y"/>
+            <Ligature components="X" glyph="C_X"/>
+            <Ligature components="W" glyph="C_W"/>
+            <Ligature components="V" glyph="C_V"/>
+            <Ligature components="U" glyph="C_U"/>
+            <Ligature components="S" glyph="C_S"/>
+            <Ligature components="R" glyph="C_R"/>
+            <Ligature components="T" glyph="C_T"/>
+            <Ligature components="Q" glyph="C_Q"/>
+            <Ligature components="P" glyph="C_P"/>
+            <Ligature components="O" glyph="C_O"/>
+            <Ligature components="N" glyph="C_N"/>
+            <Ligature components="M" glyph="C_M"/>
+            <Ligature components="L" glyph="C_L"/>
+            <Ligature components="K" glyph="C_K"/>
+            <Ligature components="J" glyph="C_J"/>
+            <Ligature components="I" glyph="C_I"/>
+            <Ligature components="H" glyph="C_H"/>
+            <Ligature components="G" glyph="C_G"/>
+            <Ligature components="E" glyph="C_E"/>
+            <Ligature components="F" glyph="C_F"/>
+            <Ligature components="D" glyph="C_D"/>
+            <Ligature components="C" glyph="C_C"/>
+            <Ligature components="B" glyph="C_B"/>
+            <Ligature components="A" glyph="C_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="D">
+            <Ligature components="Y" glyph="D_Y"/>
+            <Ligature components="X" glyph="D_X"/>
+            <Ligature components="W" glyph="D_W"/>
+            <Ligature components="V" glyph="D_V"/>
+            <Ligature components="U" glyph="D_U"/>
+            <Ligature components="S" glyph="D_S"/>
+            <Ligature components="R" glyph="D_R"/>
+            <Ligature components="T" glyph="D_T"/>
+            <Ligature components="Q" glyph="D_Q"/>
+            <Ligature components="P" glyph="D_P"/>
+            <Ligature components="O" glyph="D_O"/>
+            <Ligature components="N" glyph="D_N"/>
+            <Ligature components="M" glyph="D_M"/>
+            <Ligature components="L" glyph="D_L"/>
+            <Ligature components="K" glyph="D_K"/>
+            <Ligature components="J" glyph="D_J"/>
+            <Ligature components="I" glyph="D_I"/>
+            <Ligature components="H" glyph="D_H"/>
+            <Ligature components="G" glyph="D_G"/>
+            <Ligature components="E" glyph="D_E"/>
+            <Ligature components="F" glyph="D_F"/>
+            <Ligature components="D" glyph="D_D"/>
+            <Ligature components="C" glyph="D_C"/>
+            <Ligature components="B" glyph="D_B"/>
+            <Ligature components="Z" glyph="D_Z"/>
+            <Ligature components="A" glyph="D_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="E">
+            <Ligature components="Z" glyph="E_Z"/>
+            <Ligature components="Y" glyph="E_Y"/>
+            <Ligature components="X" glyph="E_X"/>
+            <Ligature components="W" glyph="E_W"/>
+            <Ligature components="V" glyph="E_V"/>
+            <Ligature components="U" glyph="E_U"/>
+            <Ligature components="S" glyph="E_S"/>
+            <Ligature components="R" glyph="E_R"/>
+            <Ligature components="T" glyph="E_T"/>
+            <Ligature components="Q" glyph="E_Q"/>
+            <Ligature components="P" glyph="E_P"/>
+            <Ligature components="O" glyph="E_O"/>
+            <Ligature components="N" glyph="E_N"/>
+            <Ligature components="M" glyph="E_M"/>
+            <Ligature components="L" glyph="E_L"/>
+            <Ligature components="K" glyph="E_K"/>
+            <Ligature components="J" glyph="E_J"/>
+            <Ligature components="I" glyph="E_I"/>
+            <Ligature components="H" glyph="E_H"/>
+            <Ligature components="G" glyph="E_G"/>
+            <Ligature components="E" glyph="E_E"/>
+            <Ligature components="F" glyph="E_F"/>
+            <Ligature components="D" glyph="E_D"/>
+            <Ligature components="C" glyph="E_C"/>
+            <Ligature components="B" glyph="E_B"/>
+            <Ligature components="A" glyph="E_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="F">
+            <Ligature components="Z" glyph="F_Z"/>
+            <Ligature components="Y" glyph="F_Y"/>
+            <Ligature components="X" glyph="F_X"/>
+            <Ligature components="W" glyph="F_W"/>
+            <Ligature components="V" glyph="F_V"/>
+            <Ligature components="U" glyph="F_U"/>
+            <Ligature components="S" glyph="F_S"/>
+            <Ligature components="R" glyph="F_R"/>
+            <Ligature components="T" glyph="F_T"/>
+            <Ligature components="Q" glyph="F_Q"/>
+            <Ligature components="P" glyph="F_P"/>
+            <Ligature components="O" glyph="F_O"/>
+            <Ligature components="N" glyph="F_N"/>
+            <Ligature components="M" glyph="F_M"/>
+            <Ligature components="L" glyph="F_L"/>
+            <Ligature components="K" glyph="F_K"/>
+            <Ligature components="J" glyph="F_J"/>
+            <Ligature components="I" glyph="F_I"/>
+            <Ligature components="H" glyph="F_H"/>
+            <Ligature components="G" glyph="F_G"/>
+            <Ligature components="E" glyph="F_E"/>
+            <Ligature components="F" glyph="F_F"/>
+            <Ligature components="D" glyph="F_D"/>
+            <Ligature components="C" glyph="F_C"/>
+            <Ligature components="B" glyph="F_B"/>
+            <Ligature components="A" glyph="F_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="G">
+            <Ligature components="Z" glyph="G_Z"/>
+            <Ligature components="Y" glyph="G_Y"/>
+            <Ligature components="X" glyph="G_X"/>
+            <Ligature components="W" glyph="G_W"/>
+            <Ligature components="V" glyph="G_V"/>
+            <Ligature components="U" glyph="G_U"/>
+            <Ligature components="S" glyph="G_S"/>
+            <Ligature components="R" glyph="G_R"/>
+            <Ligature components="T" glyph="G_T"/>
+            <Ligature components="Q" glyph="G_Q"/>
+            <Ligature components="P" glyph="G_P"/>
+            <Ligature components="O" glyph="G_O"/>
+            <Ligature components="N" glyph="G_N"/>
+            <Ligature components="M" glyph="G_M"/>
+            <Ligature components="L" glyph="G_L"/>
+            <Ligature components="K" glyph="G_K"/>
+            <Ligature components="J" glyph="G_J"/>
+            <Ligature components="I" glyph="G_I"/>
+            <Ligature components="H" glyph="G_H"/>
+            <Ligature components="G" glyph="G_G"/>
+            <Ligature components="F" glyph="G_F"/>
+            <Ligature components="E" glyph="G_E"/>
+            <Ligature components="D" glyph="G_D"/>
+            <Ligature components="C" glyph="G_C"/>
+            <Ligature components="B" glyph="G_B"/>
+            <Ligature components="A" glyph="G_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="H">
+            <Ligature components="Z" glyph="H_Z"/>
+            <Ligature components="Y" glyph="H_Y"/>
+            <Ligature components="X" glyph="H_X"/>
+            <Ligature components="W" glyph="H_W"/>
+            <Ligature components="V" glyph="H_V"/>
+            <Ligature components="U" glyph="H_U"/>
+            <Ligature components="S" glyph="H_S"/>
+            <Ligature components="R" glyph="H_R"/>
+            <Ligature components="T" glyph="H_T"/>
+            <Ligature components="Q" glyph="H_Q"/>
+            <Ligature components="P" glyph="H_P"/>
+            <Ligature components="O" glyph="H_O"/>
+            <Ligature components="N" glyph="H_N"/>
+            <Ligature components="M" glyph="H_M"/>
+            <Ligature components="L" glyph="H_L"/>
+            <Ligature components="K" glyph="H_K"/>
+            <Ligature components="J" glyph="H_J"/>
+            <Ligature components="I" glyph="H_I"/>
+            <Ligature components="H" glyph="H_H"/>
+            <Ligature components="G" glyph="H_G"/>
+            <Ligature components="F" glyph="H_F"/>
+            <Ligature components="E" glyph="H_E"/>
+            <Ligature components="D" glyph="H_D"/>
+            <Ligature components="C" glyph="H_C"/>
+            <Ligature components="B" glyph="H_B"/>
+            <Ligature components="A" glyph="H_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="I">
+            <Ligature components="Z" glyph="I_Z"/>
+            <Ligature components="Y" glyph="I_Y"/>
+            <Ligature components="X" glyph="I_X"/>
+            <Ligature components="W" glyph="I_W"/>
+            <Ligature components="V" glyph="I_V"/>
+            <Ligature components="U" glyph="I_U"/>
+            <Ligature components="S" glyph="I_S"/>
+            <Ligature components="R" glyph="I_R"/>
+            <Ligature components="T" glyph="I_T"/>
+            <Ligature components="Q" glyph="I_Q"/>
+            <Ligature components="P" glyph="I_P"/>
+            <Ligature components="O" glyph="I_O"/>
+            <Ligature components="N" glyph="I_N"/>
+            <Ligature components="M" glyph="I_M"/>
+            <Ligature components="L" glyph="I_L"/>
+            <Ligature components="K" glyph="I_K"/>
+            <Ligature components="J" glyph="I_J"/>
+            <Ligature components="I" glyph="I_I"/>
+            <Ligature components="H" glyph="I_H"/>
+            <Ligature components="G" glyph="I_G"/>
+            <Ligature components="F" glyph="I_F"/>
+            <Ligature components="E" glyph="I_E"/>
+            <Ligature components="D" glyph="I_D"/>
+            <Ligature components="C" glyph="I_C"/>
+            <Ligature components="B" glyph="I_B"/>
+            <Ligature components="A" glyph="I_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="J">
+            <Ligature components="W" glyph="J_W"/>
+            <Ligature components="V" glyph="J_V"/>
+            <Ligature components="R" glyph="J_R"/>
+            <Ligature components="Z" glyph="J_Z"/>
+            <Ligature components="T" glyph="J_T"/>
+            <Ligature components="Q" glyph="J_Q"/>
+            <Ligature components="P" glyph="J_P"/>
+            <Ligature components="O" glyph="J_O"/>
+            <Ligature components="N" glyph="J_N"/>
+            <Ligature components="M" glyph="J_M"/>
+            <Ligature components="L" glyph="J_L"/>
+            <Ligature components="K" glyph="J_K"/>
+            <Ligature components="I" glyph="J_I"/>
+            <Ligature components="H" glyph="J_H"/>
+            <Ligature components="G" glyph="J_G"/>
+            <Ligature components="F" glyph="J_F"/>
+            <Ligature components="E" glyph="J_E"/>
+            <Ligature components="D" glyph="J_D"/>
+            <Ligature components="C" glyph="J_C"/>
+            <Ligature components="B" glyph="J_B"/>
+            <Ligature components="A" glyph="J_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="K">
+            <Ligature components="Z" glyph="K_Z"/>
+            <Ligature components="Y" glyph="K_Y"/>
+            <Ligature components="X" glyph="K_X"/>
+            <Ligature components="W" glyph="K_W"/>
+            <Ligature components="V" glyph="K_V"/>
+            <Ligature components="U" glyph="K_U"/>
+            <Ligature components="S" glyph="K_S"/>
+            <Ligature components="R" glyph="K_R"/>
+            <Ligature components="T" glyph="K_T"/>
+            <Ligature components="Q" glyph="K_Q"/>
+            <Ligature components="P" glyph="K_P"/>
+            <Ligature components="O" glyph="K_O"/>
+            <Ligature components="N" glyph="K_N"/>
+            <Ligature components="M" glyph="K_M"/>
+            <Ligature components="L" glyph="K_L"/>
+            <Ligature components="K" glyph="K_K"/>
+            <Ligature components="J" glyph="K_J"/>
+            <Ligature components="I" glyph="K_I"/>
+            <Ligature components="H" glyph="K_H"/>
+            <Ligature components="G" glyph="K_G"/>
+            <Ligature components="F" glyph="K_F"/>
+            <Ligature components="E" glyph="K_E"/>
+            <Ligature components="D" glyph="K_D"/>
+            <Ligature components="C" glyph="K_C"/>
+            <Ligature components="B" glyph="K_B"/>
+            <Ligature components="A" glyph="K_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="L">
+            <Ligature components="Z" glyph="L_Z"/>
+            <Ligature components="Y" glyph="L_Y"/>
+            <Ligature components="X" glyph="L_X"/>
+            <Ligature components="W" glyph="L_W"/>
+            <Ligature components="V" glyph="L_V"/>
+            <Ligature components="U" glyph="L_U"/>
+            <Ligature components="S" glyph="L_S"/>
+            <Ligature components="R" glyph="L_R"/>
+            <Ligature components="T" glyph="L_T"/>
+            <Ligature components="Q" glyph="L_Q"/>
+            <Ligature components="P" glyph="L_P"/>
+            <Ligature components="O" glyph="L_O"/>
+            <Ligature components="N" glyph="L_N"/>
+            <Ligature components="M" glyph="L_M"/>
+            <Ligature components="L" glyph="L_L"/>
+            <Ligature components="K" glyph="L_K"/>
+            <Ligature components="J" glyph="L_J"/>
+            <Ligature components="I" glyph="L_I"/>
+            <Ligature components="H" glyph="L_H"/>
+            <Ligature components="G" glyph="L_G"/>
+            <Ligature components="F" glyph="L_F"/>
+            <Ligature components="E" glyph="L_E"/>
+            <Ligature components="D" glyph="L_D"/>
+            <Ligature components="C" glyph="L_C"/>
+            <Ligature components="B" glyph="L_B"/>
+            <Ligature components="A" glyph="L_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="M">
+            <Ligature components="Z" glyph="M_Z"/>
+            <Ligature components="Y" glyph="M_Y"/>
+            <Ligature components="X" glyph="M_X"/>
+            <Ligature components="W" glyph="M_W"/>
+            <Ligature components="V" glyph="M_V"/>
+            <Ligature components="U" glyph="M_U"/>
+            <Ligature components="S" glyph="M_S"/>
+            <Ligature components="J" glyph="M_J"/>
+            <Ligature components="R" glyph="M_R"/>
+            <Ligature components="T" glyph="M_T"/>
+            <Ligature components="Q" glyph="M_Q"/>
+            <Ligature components="P" glyph="M_P"/>
+            <Ligature components="O" glyph="M_O"/>
+            <Ligature components="N" glyph="M_N"/>
+            <Ligature components="M" glyph="M_M"/>
+            <Ligature components="L" glyph="M_L"/>
+            <Ligature components="K" glyph="M_K"/>
+            <Ligature components="I" glyph="M_I"/>
+            <Ligature components="H" glyph="M_H"/>
+            <Ligature components="G" glyph="M_G"/>
+            <Ligature components="F" glyph="M_F"/>
+            <Ligature components="E" glyph="M_E"/>
+            <Ligature components="D" glyph="M_D"/>
+            <Ligature components="C" glyph="M_C"/>
+            <Ligature components="B" glyph="M_B"/>
+            <Ligature components="A" glyph="M_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="N">
+            <Ligature components="Z" glyph="N_Z"/>
+            <Ligature components="Y" glyph="N_Y"/>
+            <Ligature components="X" glyph="N_X"/>
+            <Ligature components="W" glyph="N_W"/>
+            <Ligature components="V" glyph="N_V"/>
+            <Ligature components="U" glyph="N_U"/>
+            <Ligature components="S" glyph="N_S"/>
+            <Ligature components="R" glyph="N_R"/>
+            <Ligature components="T" glyph="N_T"/>
+            <Ligature components="Q" glyph="N_Q"/>
+            <Ligature components="P" glyph="N_P"/>
+            <Ligature components="O" glyph="N_O"/>
+            <Ligature components="N" glyph="N_N"/>
+            <Ligature components="M" glyph="N_M"/>
+            <Ligature components="L" glyph="N_L"/>
+            <Ligature components="K" glyph="N_K"/>
+            <Ligature components="J" glyph="N_J"/>
+            <Ligature components="I" glyph="N_I"/>
+            <Ligature components="H" glyph="N_H"/>
+            <Ligature components="G" glyph="N_G"/>
+            <Ligature components="F" glyph="N_F"/>
+            <Ligature components="E" glyph="N_E"/>
+            <Ligature components="D" glyph="N_D"/>
+            <Ligature components="C" glyph="N_C"/>
+            <Ligature components="B" glyph="N_B"/>
+            <Ligature components="A" glyph="N_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="O">
+            <Ligature components="Z" glyph="O_Z"/>
+            <Ligature components="Y" glyph="O_Y"/>
+            <Ligature components="X" glyph="O_X"/>
+            <Ligature components="W" glyph="O_W"/>
+            <Ligature components="V" glyph="O_V"/>
+            <Ligature components="U" glyph="O_U"/>
+            <Ligature components="S" glyph="O_S"/>
+            <Ligature components="R" glyph="O_R"/>
+            <Ligature components="T" glyph="O_T"/>
+            <Ligature components="Q" glyph="O_Q"/>
+            <Ligature components="P" glyph="O_P"/>
+            <Ligature components="O" glyph="O_O"/>
+            <Ligature components="N" glyph="O_N"/>
+            <Ligature components="M" glyph="O_M"/>
+            <Ligature components="L" glyph="O_L"/>
+            <Ligature components="K" glyph="O_K"/>
+            <Ligature components="J" glyph="O_J"/>
+            <Ligature components="I" glyph="O_I"/>
+            <Ligature components="H" glyph="O_H"/>
+            <Ligature components="G" glyph="O_G"/>
+            <Ligature components="F" glyph="O_F"/>
+            <Ligature components="E" glyph="O_E"/>
+            <Ligature components="D" glyph="O_D"/>
+            <Ligature components="C" glyph="O_C"/>
+            <Ligature components="B" glyph="O_B"/>
+            <Ligature components="A" glyph="O_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="P">
+            <Ligature components="Z" glyph="P_Z"/>
+            <Ligature components="Y" glyph="P_Y"/>
+            <Ligature components="X" glyph="P_X"/>
+            <Ligature components="W" glyph="P_W"/>
+            <Ligature components="V" glyph="P_V"/>
+            <Ligature components="U" glyph="P_U"/>
+            <Ligature components="S" glyph="P_S"/>
+            <Ligature components="R" glyph="P_R"/>
+            <Ligature components="T" glyph="P_T"/>
+            <Ligature components="Q" glyph="P_Q"/>
+            <Ligature components="P" glyph="P_P"/>
+            <Ligature components="O" glyph="P_O"/>
+            <Ligature components="N" glyph="P_N"/>
+            <Ligature components="M" glyph="P_M"/>
+            <Ligature components="L" glyph="P_L"/>
+            <Ligature components="K" glyph="P_K"/>
+            <Ligature components="J" glyph="P_J"/>
+            <Ligature components="I" glyph="P_I"/>
+            <Ligature components="H" glyph="P_H"/>
+            <Ligature components="G" glyph="P_G"/>
+            <Ligature components="F" glyph="P_F"/>
+            <Ligature components="E" glyph="P_E"/>
+            <Ligature components="D" glyph="P_D"/>
+            <Ligature components="C" glyph="P_C"/>
+            <Ligature components="B" glyph="P_B"/>
+            <Ligature components="A" glyph="P_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="Q">
+            <Ligature components="Z" glyph="Q_Z"/>
+            <Ligature components="Y" glyph="Q_Y"/>
+            <Ligature components="X" glyph="Q_X"/>
+            <Ligature components="W" glyph="Q_W"/>
+            <Ligature components="V" glyph="Q_V"/>
+            <Ligature components="U" glyph="Q_U"/>
+            <Ligature components="S" glyph="Q_S"/>
+            <Ligature components="R" glyph="Q_R"/>
+            <Ligature components="T" glyph="Q_T"/>
+            <Ligature components="P" glyph="Q_P"/>
+            <Ligature components="O" glyph="Q_O"/>
+            <Ligature components="N" glyph="Q_N"/>
+            <Ligature components="M" glyph="Q_M"/>
+            <Ligature components="L" glyph="Q_L"/>
+            <Ligature components="K" glyph="Q_K"/>
+            <Ligature components="J" glyph="Q_J"/>
+            <Ligature components="I" glyph="Q_I"/>
+            <Ligature components="Q" glyph="Q_Q"/>
+            <Ligature components="H" glyph="Q_H"/>
+            <Ligature components="G" glyph="Q_G"/>
+            <Ligature components="F" glyph="Q_F"/>
+            <Ligature components="E" glyph="Q_E"/>
+            <Ligature components="D" glyph="Q_D"/>
+            <Ligature components="C" glyph="Q_C"/>
+            <Ligature components="B" glyph="Q_B"/>
+            <Ligature components="A" glyph="Q_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="R">
+            <Ligature components="V" glyph="R_V"/>
+            <Ligature components="U" glyph="R_U"/>
+            <Ligature components="S" glyph="R_S"/>
+            <Ligature components="J" glyph="R_J"/>
+            <Ligature components="R" glyph="R_R"/>
+            <Ligature components="W" glyph="R_W"/>
+            <Ligature components="Y" glyph="R_Y"/>
+            <Ligature components="X" glyph="R_X"/>
+            <Ligature components="Z" glyph="R_Z"/>
+            <Ligature components="T" glyph="R_T"/>
+            <Ligature components="Q" glyph="R_Q"/>
+            <Ligature components="P" glyph="R_P"/>
+            <Ligature components="O" glyph="R_O"/>
+            <Ligature components="N" glyph="R_N"/>
+            <Ligature components="M" glyph="R_M"/>
+            <Ligature components="L" glyph="R_L"/>
+            <Ligature components="K" glyph="R_K"/>
+            <Ligature components="I" glyph="R_I"/>
+            <Ligature components="H" glyph="R_H"/>
+            <Ligature components="G" glyph="R_G"/>
+            <Ligature components="F" glyph="R_F"/>
+            <Ligature components="E" glyph="R_E"/>
+            <Ligature components="D" glyph="R_D"/>
+            <Ligature components="C" glyph="R_C"/>
+            <Ligature components="B" glyph="R_B"/>
+            <Ligature components="A" glyph="R_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="S">
+            <Ligature components="W" glyph="S_W"/>
+            <Ligature components="V" glyph="S_V"/>
+            <Ligature components="R" glyph="S_R"/>
+            <Ligature components="Z" glyph="S_Z"/>
+            <Ligature components="T" glyph="S_T"/>
+            <Ligature components="Q" glyph="S_Q"/>
+            <Ligature components="P" glyph="S_P"/>
+            <Ligature components="O" glyph="S_O"/>
+            <Ligature components="N" glyph="S_N"/>
+            <Ligature components="M" glyph="S_M"/>
+            <Ligature components="L" glyph="S_L"/>
+            <Ligature components="K" glyph="S_K"/>
+            <Ligature components="I" glyph="S_I"/>
+            <Ligature components="H" glyph="S_H"/>
+            <Ligature components="G" glyph="S_G"/>
+            <Ligature components="F" glyph="S_F"/>
+            <Ligature components="E" glyph="S_E"/>
+            <Ligature components="D" glyph="S_D"/>
+            <Ligature components="C" glyph="S_C"/>
+            <Ligature components="B" glyph="S_B"/>
+            <Ligature components="A" glyph="S_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="T">
+            <Ligature components="Z" glyph="T_Z"/>
+            <Ligature components="Y" glyph="T_Y"/>
+            <Ligature components="X" glyph="T_X"/>
+            <Ligature components="W" glyph="T_W"/>
+            <Ligature components="V" glyph="T_V"/>
+            <Ligature components="U" glyph="T_U"/>
+            <Ligature components="S" glyph="T_S"/>
+            <Ligature components="R" glyph="T_R"/>
+            <Ligature components="T" glyph="T_T"/>
+            <Ligature components="Q" glyph="T_Q"/>
+            <Ligature components="P" glyph="T_P"/>
+            <Ligature components="O" glyph="T_O"/>
+            <Ligature components="N" glyph="T_N"/>
+            <Ligature components="M" glyph="T_M"/>
+            <Ligature components="L" glyph="T_L"/>
+            <Ligature components="K" glyph="T_K"/>
+            <Ligature components="J" glyph="T_J"/>
+            <Ligature components="I" glyph="T_I"/>
+            <Ligature components="H" glyph="T_H"/>
+            <Ligature components="G" glyph="T_G"/>
+            <Ligature components="F" glyph="T_F"/>
+            <Ligature components="E" glyph="T_E"/>
+            <Ligature components="D" glyph="T_D"/>
+            <Ligature components="C" glyph="T_C"/>
+            <Ligature components="B" glyph="T_B"/>
+            <Ligature components="A" glyph="T_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="U">
+            <Ligature components="W" glyph="U_W"/>
+            <Ligature components="V" glyph="U_V"/>
+            <Ligature components="R" glyph="U_R"/>
+            <Ligature components="Z" glyph="U_Z"/>
+            <Ligature components="T" glyph="U_T"/>
+            <Ligature components="Q" glyph="U_Q"/>
+            <Ligature components="P" glyph="U_P"/>
+            <Ligature components="O" glyph="U_O"/>
+            <Ligature components="N" glyph="U_N"/>
+            <Ligature components="M" glyph="U_M"/>
+            <Ligature components="L" glyph="U_L"/>
+            <Ligature components="K" glyph="U_K"/>
+            <Ligature components="I" glyph="U_I"/>
+            <Ligature components="H" glyph="U_H"/>
+            <Ligature components="G" glyph="U_G"/>
+            <Ligature components="F" glyph="U_F"/>
+            <Ligature components="E" glyph="U_E"/>
+            <Ligature components="D" glyph="U_D"/>
+            <Ligature components="C" glyph="U_C"/>
+            <Ligature components="B" glyph="U_B"/>
+            <Ligature components="A" glyph="U_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="V">
+            <Ligature components="S" glyph="V_S"/>
+            <Ligature components="J" glyph="V_J"/>
+            <Ligature components="U" glyph="V_U"/>
+            <Ligature components="V" glyph="V_V"/>
+            <Ligature components="R" glyph="V_R"/>
+            <Ligature components="W" glyph="V_W"/>
+            <Ligature components="Y" glyph="V_Y"/>
+            <Ligature components="X" glyph="V_X"/>
+            <Ligature components="Z" glyph="V_Z"/>
+            <Ligature components="T" glyph="V_T"/>
+            <Ligature components="Q" glyph="V_Q"/>
+            <Ligature components="P" glyph="V_P"/>
+            <Ligature components="O" glyph="V_O"/>
+            <Ligature components="N" glyph="V_N"/>
+            <Ligature components="M" glyph="V_M"/>
+            <Ligature components="L" glyph="V_L"/>
+            <Ligature components="K" glyph="V_K"/>
+            <Ligature components="I" glyph="V_I"/>
+            <Ligature components="H" glyph="V_H"/>
+            <Ligature components="G" glyph="V_G"/>
+            <Ligature components="F" glyph="V_F"/>
+            <Ligature components="E" glyph="V_E"/>
+            <Ligature components="D" glyph="V_D"/>
+            <Ligature components="C" glyph="V_C"/>
+            <Ligature components="B" glyph="V_B"/>
+            <Ligature components="A" glyph="V_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="W">
+            <Ligature components="V" glyph="W_V"/>
+            <Ligature components="U" glyph="W_U"/>
+            <Ligature components="S" glyph="W_S"/>
+            <Ligature components="J" glyph="W_J"/>
+            <Ligature components="R" glyph="W_R"/>
+            <Ligature components="W" glyph="W_W"/>
+            <Ligature components="Y" glyph="W_Y"/>
+            <Ligature components="X" glyph="W_X"/>
+            <Ligature components="Z" glyph="W_Z"/>
+            <Ligature components="T" glyph="W_T"/>
+            <Ligature components="Q" glyph="W_Q"/>
+            <Ligature components="P" glyph="W_P"/>
+            <Ligature components="O" glyph="W_O"/>
+            <Ligature components="N" glyph="W_N"/>
+            <Ligature components="M" glyph="W_M"/>
+            <Ligature components="L" glyph="W_L"/>
+            <Ligature components="K" glyph="W_K"/>
+            <Ligature components="I" glyph="W_I"/>
+            <Ligature components="H" glyph="W_H"/>
+            <Ligature components="G" glyph="W_G"/>
+            <Ligature components="F" glyph="W_F"/>
+            <Ligature components="E" glyph="W_E"/>
+            <Ligature components="D" glyph="W_D"/>
+            <Ligature components="C" glyph="W_C"/>
+            <Ligature components="B" glyph="W_B"/>
+            <Ligature components="A" glyph="W_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="X">
+            <Ligature components="W" glyph="X_W"/>
+            <Ligature components="V" glyph="X_V"/>
+            <Ligature components="R" glyph="X_R"/>
+            <Ligature components="Z" glyph="X_Z"/>
+            <Ligature components="T" glyph="X_T"/>
+            <Ligature components="Q" glyph="X_Q"/>
+            <Ligature components="P" glyph="X_P"/>
+            <Ligature components="O" glyph="X_O"/>
+            <Ligature components="N" glyph="X_N"/>
+            <Ligature components="M" glyph="X_M"/>
+            <Ligature components="L" glyph="X_L"/>
+            <Ligature components="K" glyph="X_K"/>
+            <Ligature components="I" glyph="X_I"/>
+            <Ligature components="H" glyph="X_H"/>
+            <Ligature components="G" glyph="X_G"/>
+            <Ligature components="F" glyph="X_F"/>
+            <Ligature components="E" glyph="X_E"/>
+            <Ligature components="D" glyph="X_D"/>
+            <Ligature components="C" glyph="X_C"/>
+            <Ligature components="B" glyph="X_B"/>
+            <Ligature components="A" glyph="X_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="Y">
+            <Ligature components="W" glyph="Y_W"/>
+            <Ligature components="V" glyph="Y_V"/>
+            <Ligature components="R" glyph="Y_R"/>
+            <Ligature components="Z" glyph="Y_Z"/>
+            <Ligature components="T" glyph="Y_T"/>
+            <Ligature components="Q" glyph="Y_Q"/>
+            <Ligature components="P" glyph="Y_P"/>
+            <Ligature components="O" glyph="Y_O"/>
+            <Ligature components="N" glyph="Y_N"/>
+            <Ligature components="M" glyph="Y_M"/>
+            <Ligature components="L" glyph="Y_L"/>
+            <Ligature components="K" glyph="Y_K"/>
+            <Ligature components="I" glyph="Y_I"/>
+            <Ligature components="H" glyph="Y_H"/>
+            <Ligature components="G" glyph="Y_G"/>
+            <Ligature components="F" glyph="Y_F"/>
+            <Ligature components="E" glyph="Y_E"/>
+            <Ligature components="D" glyph="Y_D"/>
+            <Ligature components="C" glyph="Y_C"/>
+            <Ligature components="B" glyph="Y_B"/>
+            <Ligature components="A" glyph="Y_A"/>
+          </LigatureSet>
+          <LigatureSet glyph="Z">
+            <Ligature components="Z" glyph="Z_Z"/>
+            <Ligature components="Y" glyph="Z_Y"/>
+            <Ligature components="X" glyph="Z_X"/>
+            <Ligature components="W" glyph="Z_W"/>
+            <Ligature components="V" glyph="Z_V"/>
+            <Ligature components="U" glyph="Z_U"/>
+            <Ligature components="S" glyph="Z_S"/>
+            <Ligature components="R" glyph="Z_R"/>
+            <Ligature components="T" glyph="Z_T"/>
+            <Ligature components="Q" glyph="Z_Q"/>
+            <Ligature components="P" glyph="Z_P"/>
+            <Ligature components="O" glyph="Z_O"/>
+            <Ligature components="N" glyph="Z_N"/>
+            <Ligature components="M" glyph="Z_M"/>
+            <Ligature components="L" glyph="Z_L"/>
+            <Ligature components="K" glyph="Z_K"/>
+            <Ligature components="J" glyph="Z_J"/>
+            <Ligature components="I" glyph="Z_I"/>
+            <Ligature components="H" glyph="Z_H"/>
+            <Ligature components="G" glyph="Z_G"/>
+            <Ligature components="F" glyph="Z_F"/>
+            <Ligature components="E" glyph="Z_E"/>
+            <Ligature components="D" glyph="Z_D"/>
+            <Ligature components="C" glyph="Z_C"/>
+            <Ligature components="B" glyph="Z_B"/>
+            <Ligature components="A" glyph="Z_A"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="3" Format="1">
+          <LigatureSet glyph="P">
+            <Ligature components="a" glyph="P_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="b">
+            <Ligature components="a" glyph="b_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="a" glyph="c_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="a" glyph="d_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="a" glyph="f_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="g">
+            <Ligature components="a" glyph="g_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="a" glyph="t_a"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="a" glyph="v_a"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="4" Format="1">
+          <LigatureSet glyph="c">
+            <Ligature components="c" glyph="c_c"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="5" Format="1">
+          <LigatureSet glyph="C">
+            <Ligature components="e" glyph="C_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="P">
+            <Ligature components="e" glyph="P_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="a">
+            <Ligature components="e" glyph="a_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="e" glyph="d_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="e" glyph="l_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="e" glyph="n_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="p">
+            <Ligature components="e" glyph="p_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="e" glyph="s_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="e" glyph="t_e"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="e" glyph="v_e"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="6" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="f" glyph="f_f"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="f" glyph="o_f"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="7" Format="1">
+          <LigatureSet glyph="t">
+            <Ligature components="h" glyph="t_h"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="8" Format="1">
+          <LigatureSet glyph="L">
+            <Ligature components="i" glyph="L_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="i" glyph="c_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="i" glyph="d_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="i" glyph="f_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="i" glyph="r_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="i" glyph="s_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="i" glyph="t_i"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="i" glyph="v_i"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="9" Format="1">
+          <LigatureSet glyph="h">
+            <Ligature components="j" glyph="h_j"/>
+          </LigatureSet>
+          <LigatureSet glyph="i">
+            <Ligature components="j" glyph="i_j"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="10" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="l" glyph="f_l"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="l" glyph="l_l"/>
+          </LigatureSet>
+          <LigatureSet glyph="p">
+            <Ligature components="l" glyph="p_l"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="11" Format="1">
+          <LigatureSet glyph="m">
+            <Ligature components="m" glyph="m_m"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="12" Format="1">
+          <LigatureSet glyph="U">
+            <Ligature components="n" glyph="U_n"/>
+          </LigatureSet>
+          <LigatureSet glyph="d">
+            <Ligature components="n" glyph="d_n"/>
+          </LigatureSet>
+          <LigatureSet glyph="o">
+            <Ligature components="n" glyph="o_n"/>
+          </LigatureSet>
+          <LigatureSet glyph="w">
+            <Ligature components="n" glyph="w_n"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="13" Format="1">
+          <LigatureSet glyph="C">
+            <Ligature components="o" glyph="C_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="E">
+            <Ligature components="o" glyph="E_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="G">
+            <Ligature components="o" glyph="G_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="K">
+            <Ligature components="o" glyph="K_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="L">
+            <Ligature components="o" glyph="L_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="M">
+            <Ligature components="o" glyph="M_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="R">
+            <Ligature components="o" glyph="R_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="a">
+            <Ligature components="o" glyph="a_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="c">
+            <Ligature components="o" glyph="c_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="o" glyph="e_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="eacute">
+            <Ligature components="o" glyph="eacute_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="egrave">
+            <Ligature components="o" glyph="egrave_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="o" glyph="f_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="g">
+            <Ligature components="o" glyph="g_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="h">
+            <Ligature components="o" glyph="h_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="i">
+            <Ligature components="o" glyph="i_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="j">
+            <Ligature components="o" glyph="j_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="k">
+            <Ligature components="o" glyph="k_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="l">
+            <Ligature components="o" glyph="l_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="m">
+            <Ligature components="o" glyph="m_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="n">
+            <Ligature components="o" glyph="n_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="p">
+            <Ligature components="o" glyph="p_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="o" glyph="r_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="o" glyph="s_o"/>
+          </LigatureSet>
+          <LigatureSet glyph="v">
+            <Ligature components="o" glyph="v_o"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="14" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="p" glyph="a_p"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="15" Format="1">
+          <LigatureSet glyph="r">
+            <Ligature components="r" glyph="r_r"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="r" glyph="t_r"/>
+          </LigatureSet>
+          <LigatureSet glyph="u">
+            <Ligature components="r" glyph="u_r"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="16" Format="1">
+          <LigatureSet glyph="l">
+            <Ligature components="s" glyph="l_s"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="s" glyph="r_s"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="s" glyph="s_s"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="s" glyph="t_s"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="17" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="t" glyph="a_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="e">
+            <Ligature components="t" glyph="e_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="ecircumflex">
+            <Ligature components="t" glyph="ecircumflex_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="f">
+            <Ligature components="t" glyph="f_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="r">
+            <Ligature components="t" glyph="r_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="t" glyph="s_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="t" glyph="t_t"/>
+          </LigatureSet>
+          <LigatureSet glyph="u">
+            <Ligature components="t" glyph="u_t"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="18" Format="1">
+          <LigatureSet glyph="o">
+            <Ligature components="u" glyph="o_u"/>
+          </LigatureSet>
+          <LigatureSet glyph="q">
+            <Ligature components="u" glyph="q_u"/>
+          </LigatureSet>
+          <LigatureSet glyph="s">
+            <Ligature components="u" glyph="s_u"/>
+          </LigatureSet>
+          <LigatureSet glyph="t">
+            <Ligature components="u" glyph="t_u"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="19" Format="1">
+          <LigatureSet glyph="a">
+            <Ligature components="v" glyph="a_v"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="20" Format="1">
+          <LigatureSet glyph="u">
+            <Ligature components="x" glyph="u_x"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="21" Format="1">
+          <LigatureSet glyph="l">
+            <Ligature components="y" glyph="l_y"/>
+          </LigatureSet>
+        </LigatureSubst>
+        <LigatureSubst index="22" Format="1">
+          <LigatureSet glyph="e">
+            <Ligature components="z" glyph="e_z"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
